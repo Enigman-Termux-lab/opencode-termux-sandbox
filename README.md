@@ -17,6 +17,10 @@
 
 </div>
 
+> [!NOTE]
+> 🌐 **Этот проект является частью экосистемы [Enigman Termux Lab](https://github.com/Enigman-Termux-lab)** — открытой лаборатории автономных AI-агентов и системных инструментов для Android Termux.  
+> 📌 **Главный хаб и полный каталог инструментов:** [github.com/Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)
+
 ## 🚨 Проблема: Риски автономных AI-агентов
 
 Современные агенты (OpenCode, Codex, Hermes, Openclaw) работают в режиме полной автономности: они сами исследуют репозитории, вызывают shell-команды, устанавливают пакеты и правят код.
